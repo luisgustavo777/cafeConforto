@@ -44,9 +44,9 @@
 
 .sobreBox {
     width: auto; 
-    height: 39rem;    
+    height: 37rem;    
     background-color: #de8116; 
-    padding: 1rem; 
+    padding: 2rem; 
 }
 
 .textoSobre {
@@ -57,5 +57,23 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     left: 35rem;
     top: 54rem;
+    padding: 1rem;
+}
+
+.sobreLocal {
+    width: auto; 
+    height: 37rem;
+    background-color: #b46137;
+    padding: 2rem; 
+}
+
+.textoMapa {
+    position: absolute;
+    color: white;
+    font-size: 2rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 35rem;
+    top: 92rem;
     padding: 1rem;
 }
