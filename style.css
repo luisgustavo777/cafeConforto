@@ -49,6 +49,10 @@
     padding: 2rem; 
 }
 
+.sobreBox img {
+    border-radius: 5%;
+}
+
 .textoSobre {
     position: absolute;
     color: white;
@@ -67,6 +71,10 @@
     padding: 2rem; 
 }
 
+.sobreLocal img {
+    border-radius: 5%;
+}
+
 .textoMapa {
     position: absolute;
     color: white;
@@ -76,4 +84,51 @@
     left: 35rem;
     top: 92rem;
     padding: 1rem;
+}
+
+.catalogo {
+    width: auto;
+    height: 50rem;
+    background-image: url("feijao.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1rem;
+}
+
+.catalogo h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    padding: 2rem;
+    text-shadow: 2px 2px 5px black; 
+}
+
+.gridCafes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 10px;
+    justify-content: center;
+    justify-items: end;
+    margin: 5rem;
+}
+  
+.itemGrid {
+    overflow: hidden; 
+    border-radius: 8px;
+}
+  
+.itemGrid img {
+    width: 50%;
+    height: auto;
+    display: block;
+}
+
+.info {
+    display: flex;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    flex-direction: column;
+    color: white;
 }
