@@ -132,3 +132,25 @@
     flex-direction: column;
     color: white;
 }
+
+.contatos {
+    height: auto;
+    width: auto;
+    background-color: #93461f;
+    padding: 1rem;
+}
+
+.contatos img {
+    border-radius: 5%;
+}
+
+.textoContato {
+    position: absolute;
+    color: white;
+    font-size: 2rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 35rem;
+    top: 178rem;
+    padding: 1rem;
+}
