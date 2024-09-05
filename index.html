@@ -8,13 +8,21 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <header class="cabecalho">
+  <audio class="audioBaltimore" controls>
+    <source src="baltimore.mp3.mp3" type="audio/mp3">
+  </audio>
+
+  <div class="voltarInicio">
+    <a href="#section5" class="voltarBtn">Voltar ao topo</a>
+  </div>
+
+    <header class="cabecalho" id="section5">
       <img src="cover.png" alt="Logo" width="255px">
       <ul class="listaCabecalho">
-        <li><a href="" class="btnCabecalho">Sobre nós</a></li>
-        <li><a href="" class="btnCabecalho">Nosso local</a></li>
-        <li><a href="" class="btnCabecalho">Nossos cafés</a></li>
-        <li><a href="" class="btnCabecalho">Contate-nos</a></li>
+        <li><a href="#section1" class="btnCabecalho">Sobre nós</a></li>
+        <li><a href="#section2" class="btnCabecalho">Nosso local</a></li>
+        <li><a href="#section3" class="btnCabecalho">Nossos cafés</a></li>
+        <li><a href="#section4" class="btnCabecalho">Contate-nos</a></li>
       </ul>
     </header> 
 
@@ -23,7 +31,7 @@
       <h1>Sabores que abraçam, momentos que aquecem!</h1>
     </div>
 
-    <div class="sobreBox">
+    <div class="sobreBox" id="section1">
       <img src="sobreNos.jpg" alt="sobre a cafeteria" width="500rem">
       <section class="textoSobre">
         <h2>Quem somos nós?</h2>
@@ -33,7 +41,7 @@
       </section>
     </div>
 
-    <div class="sobreLocal">
+    <div class="sobreLocal" id="section2">
       <img src="mapaLocal.png" alt="local da cafeteria" width="500rem" height="500rem">
       <section class="textoMapa">
         <h2>Aonde estamos?</h2>
@@ -44,7 +52,7 @@
       </section>
     </div>
 
-    <div class="catalogo">
+    <div class="catalogo" id="section3">
       <h1>
         Nosso menu
       </h1>
@@ -108,7 +116,7 @@
       </div>
     </div>
 
-    <div class="contatos">
+    <div class="contatos" id="section4">
       <img src="default.png" alt="logomarca" width="500px">
       <section class="textoContato">
         <h2>Entre em Contato!</h2>
