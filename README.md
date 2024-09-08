@@ -13,4 +13,4 @@ Some Products and Pricing
 Contact Section
 ![Captura de tela 2024-09-05 200902](https://github.com/user-attachments/assets/91165318-fc27-42df-b76b-b1582a11ecc7)
 
-Observação: Este web site foi testado no navegador Mozila Firefox
+Warning: This page was made on Mozilla Firefox browser
