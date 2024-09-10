@@ -1,16 +1,16 @@
 Home Screen of Café&Conforto
-![Captura de tela 2024-09-05 200753](https://github.com/user-attachments/assets/c945ccf7-67ba-4124-8529-7f84c4cd6942)
+![Captura de tela 2024-09-10 000540](https://github.com/user-attachments/assets/db92620f-5471-4185-9b94-63ed64a75bb2)
 
 About Us Screen
-![Captura de tela 2024-09-05 200813](https://github.com/user-attachments/assets/45d875c1-d37f-412b-8d29-185eac6fbacf)
+![Captura de tela 2024-09-10 000546](https://github.com/user-attachments/assets/088f7e20-3e55-43b2-8487-70a36c6c964d)
 
 Where We Are Screen
-![Captura de tela 2024-09-05 200826](https://github.com/user-attachments/assets/46bad8a8-f9f5-4ca9-95f8-8265f736c227)
+![Captura de tela 2024-09-10 000546](https://github.com/user-attachments/assets/47c81870-2e58-4377-93c8-50875579cc43)
 
 Some Products and Pricing
-![Captura de tela 2024-09-05 200848](https://github.com/user-attachments/assets/e8f53a31-bd78-4139-b933-49c27bfefcf7)
+![Captura de tela 2024-09-10 000556](https://github.com/user-attachments/assets/87423352-1f00-4745-9df0-47223337925d)
 
 Contact Section
-![Captura de tela 2024-09-05 200902](https://github.com/user-attachments/assets/91165318-fc27-42df-b76b-b1582a11ecc7)
+![Captura de tela 2024-09-10 000600](https://github.com/user-attachments/assets/1aaf42a6-db61-418e-b196-a659de943197)
 
-Warning: This page was made on Mozilla Firefox browser
+Disclaimer: This web page was made on Mozilla Firefox browser
