@@ -5,7 +5,7 @@ About Us Screen
 ![Captura de tela 2024-09-10 000546](https://github.com/user-attachments/assets/088f7e20-3e55-43b2-8487-70a36c6c964d)
 
 Where We Are Screen
-![Captura de tela 2024-09-10 000546](https://github.com/user-attachments/assets/47c81870-2e58-4377-93c8-50875579cc43)
+![Captura de tela 2024-09-10 000550](https://github.com/user-attachments/assets/dbe72424-0bd1-40fb-8b39-06270969f610)
 
 Some Products and Pricing
 ![Captura de tela 2024-09-10 000556](https://github.com/user-attachments/assets/87423352-1f00-4745-9df0-47223337925d)
